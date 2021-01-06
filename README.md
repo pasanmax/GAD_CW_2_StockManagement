@@ -1,0 +1,1 @@
+# GAD_CW_2_StockManagement
